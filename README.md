@@ -1,4 +1,4 @@
-## Primeiro Trabalho pratico de Topicos em Engenharia de Software
+## Primeiro Trabalho prático de Topicos em Engenharia de Software
 
 ### Aluno: Eduardo Araujo 
 ### Projeto MultiLayer Perceptrons(MLP)
